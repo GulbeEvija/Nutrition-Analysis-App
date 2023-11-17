@@ -86,7 +86,7 @@ form {
   }
 
   button {
-    background-color: rgb(224, 224, 224);
+    background-color: rgba(224, 224, 224, 0.932);
     border: 1px solid #888888;
   }
 }
