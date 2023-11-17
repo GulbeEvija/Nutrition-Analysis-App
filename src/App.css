@@ -86,6 +86,6 @@ form {
   }
 
   button {
-    -webkit-tap-highlight-color: transparent;
+   background-color: white;
   }
 }
