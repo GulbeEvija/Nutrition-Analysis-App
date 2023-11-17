@@ -86,7 +86,11 @@ form {
   }
 
   button {
+<<<<<<< HEAD
     background-color: rgb(224, 224, 224);
     border: 1px solid #888888;
+=======
+   background-color: white;
+>>>>>>> 891ad386de82d288e99f798dcd4ce4d2b62d384a
   }
 }
